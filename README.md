@@ -92,3 +92,6 @@ python write_glyph_imgs.py --split test
 python write_data_to_pkl.py --split train
 python write_data_to_pkl.py --split test
 ```
+## Acknowledgment
+
+[deepvecfont](https://github.com/lixinjie97/deepvecfont)
